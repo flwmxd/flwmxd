@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Game Engine Developer and Managed to tell good Chinese story with 3A games.
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=flwmxd&show_icons=true&count_private=true&theme=radical)](https://github.com/flwmxd)
+
 <!--
 **flwmxd/flwmxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
