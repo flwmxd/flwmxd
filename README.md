@@ -2,6 +2,8 @@
 
 Game Engine Developer and Devoted to telling good Chinese stories with 3A games.
 
+I'm a third-rate guitarist, second-rate programmer, first-rate dreamer.
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=flwmxd&show_icons=true&count_private=true&theme=radical)](https://github.com/flwmxd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flwmxd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
