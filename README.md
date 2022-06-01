@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Game Engine Developer and Managed to tell good Chinese story with 3A games.
+Game Engine Developer and Devoted to telling good Chinese stories with 3A games.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=flwmxd&show_icons=true&count_private=true&theme=radical)](https://github.com/flwmxd)
 
