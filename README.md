@@ -1,12 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-Game Engine Developer and Devoted to telling good Chinese stories with 3A games.
+### Game Engine Developer and Devoted to telling good stories with 3A games.
 
-I'm a third-rate guitarist, second-rate programmer, first-rate dreamer.
+Interested in Global illumination / Ray Tracing / GPU-Driven and Cross-Platform development.
+
+- 🌱 I finished [Hybrid GI solution, based on DDGI including Ray-Tracing and SDF-Tracing](https://github.com/flwmxd/LuxGI)
+- 🔭 I’m currently working on [Fake Nanite](https://www.youtube.com/watch?v=xQeqNVvb6rM) in my personal engine.
+- 🤔 With 5 years of game engine development experience.
+- 😄 I'm a third-rate guitarist, second-rate programmer, first-rate dreamer.
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=flwmxd&show_icons=true&count_private=true&theme=radical)](https://github.com/flwmxd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flwmxd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **flwmxd/flwmxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
