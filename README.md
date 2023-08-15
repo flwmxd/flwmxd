@@ -5,7 +5,7 @@
 Interested in Global illumination / Ray Tracing / GPU-Driven and Cross-Platform development.
 
 - 🌱 I finished [Hybrid GI solution, based on DDGI including Ray-Tracing and SDF-Tracing](https://github.com/flwmxd/LuxGI)
-- 🔭 I’m currently working on [Fake Nanite](https://www.youtube.com/watch?v=xQeqNVvb6rM) in my personal engine.
+- 🔭 I’m currently working on [Fake Nanite](https://www.youtube.com/watch?v=79aaFzgOso0) in my personal engine [Video2](https://www.youtube.com/watch?v=xQeqNVvb6rM).
 - 🤔 With 5 years of game engine development experience.
 - 😄 I'm a third-rate guitarist, second-rate programmer, first-rate dreamer.
 
