@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Game Engine Developer and Devoted to telling good stories with 3A games.
+### Game Engine Developer and Committed to telling good stories with 3A games.
 
 Interested in Global illumination / Ray Tracing / GPU-Driven and Cross-Platform development.
 
